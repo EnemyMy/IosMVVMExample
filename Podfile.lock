@@ -1,0 +1,31 @@
+PODS:
+  - EasyPeasy (1.9.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+
+DEPENDENCIES:
+  - EasyPeasy
+  - RxCocoa
+  - RxRelay
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - EasyPeasy
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  EasyPeasy: 19a84ef8f8bbcf925b9fecc29d1d78b7dab96718
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+
+PODFILE CHECKSUM: 9c9ac653f43cba7b387e2c0cfbaa2a293317cd3a
+
+COCOAPODS: 1.10.0
